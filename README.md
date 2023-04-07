@@ -1,2 +1,2 @@
-# R-for-Real-Estate-Assessment
-Resources for real estate assessors to learn R using the book "R for Assessors" using the Ames data set.
+# assessR
+Resources for real estate assessors to use R in data analysis
